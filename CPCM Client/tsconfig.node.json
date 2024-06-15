@@ -1,0 +1,23 @@
+// {
+//     "compilerOptions": {
+//       "jsx": "react",
+//       "composite": true,
+//       "skipLibCheck": true,
+//       "module": "ESNext",
+//       "moduleResolution": "bundler",
+//       "allowSyntheticDefaultImports": true
+//     },
+//     "include": ["vite.config.ts","src", "vite-env.d.ts"]
+//   }
+
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts","src", "vite-env.d.ts"]
+}
